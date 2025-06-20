@@ -23,3 +23,14 @@ This ensemble technique combines the strengths of deep learning and traditional 
 - Scikit-learn for SVM
 - Image preprocessing (resizing, normalization)
 - Data augmentation for improved generalization
+
+## 📊 Dataset
+Use any brain MRI dataset from:
+- Kaggle Brain Tumor Dataset
+- Figshare or similar open medical repositories
+
+
+
+## 📬 Contact
+Ragavi Sivanesan
+📧 ragavisivanesan08@gmail.com
