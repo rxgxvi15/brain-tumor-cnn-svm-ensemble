@@ -1,0 +1,13 @@
+✅ requirements.txt
+txt
+Copy
+Edit
+tensorflow>=2.11.0
+keras>=2.11.0
+scikit-learn>=1.2.0
+opencv-python
+numpy
+matplotlib
+pandas
+jupyter
+seaborn
